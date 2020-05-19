@@ -1,6 +1,6 @@
-# fluttercryptotest
+cryptotest
 
-A new Flutter application.
+Flutter application.
 
 ## Getting Started
 
